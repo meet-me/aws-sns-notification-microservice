@@ -2,7 +2,7 @@
 
 
 Eureka & AWS/Twilio SMS Notification Discoverable MicroService
-(Pritam Mugal – 026511)
+(Auther - Pritam Mugal)
 
 Overview:
 The attached project is a group of 3 web services. Its purpose is to send SMS notification to admin phone numbers, which are picked from the properties file. Three microservices are – 
